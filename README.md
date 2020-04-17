@@ -4,7 +4,7 @@ The purpose of this Terraform project is testing Atlas peering in an [Azure Hub&
 In particular, connectivity from a spoke (spoke 1) to Atlas is enabled withouth a direct peering through a virtual machine in the hub configured to act as router and perform NAT.
 
 ### Code organization:
-Terraform code is largely based in these two sources:
+Terraform code is largely based on these two sources:
 - (https://docs.microsoft.com/en-us/azure/terraform/terraform-hub-spoke-validation)
 - Eugene Bogaart's Azure Peering with Terraform demo (https://github.com/eugenebogaart/Atlas-Azure-Peering)
 
