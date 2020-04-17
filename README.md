@@ -5,7 +5,7 @@ In particular, connectivity from a spoke (spoke 1) to Atlas is enabled withouth 
 
 ### Code organization:
 Terraform code is largely based on these two sources:
-- (https://docs.microsoft.com/en-us/azure/terraform/terraform-hub-spoke-validation)
+- [https://docs.microsoft.com/en-us/azure/terraform/terraform-hub-spoke-validation]
 - Eugene Bogaart's Azure Peering with Terraform demo (https://github.com/eugenebogaart/Atlas-Azure-Peering)
 
 Description of the project files:
